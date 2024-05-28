@@ -1,0 +1,15 @@
+/* styles.css */
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  
+  .top {
+    position: fixed;
+    top: 50px; /* Adjust this if your Top component has a different height */
+    width: 100%;
+    z-index: 1000;
+  }
+  
